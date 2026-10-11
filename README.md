@@ -3,9 +3,7 @@ Documentation of my undergraduate and master's thesis research in mathematics
 
 Research Projects
 
-Master's Thesis
-
-Title: On the k-numerical range of cyclic shift matrices 
+Title: On the k-numerical range of cyclic shift matrices (MS Thesis)
 
 Field: Linear Algebra
 
@@ -15,9 +13,7 @@ Abstract:
 
 In 2023, M.-T. Chien, S. Kirkland, C.-K. Li, and H. Nakazato conjectured that the cyclic shift S(a1, a3, a5, . . . , a6, a4, a2) with 0 ≤ a1 ≤ · · · ≤ an has the largest numerical range among all cyclic shift matrices with the same collection of weights. H.-L. Gau proved the conjecture in 2024. In this study, we formulate a version of the problem for the k-numerical range. We explore aspects of the conjecture in this new setting. For small n (at least for n = 2, 3, 4), a necessary and sufficient condition is established for an n-by-n cyclic shift to have the largest k-numerical range among all n-by-n cyclic shift matrices with the same collection of nonnegative real weights. The conjecture is proved for n-by-n cyclic shift matrices. The main results are extended to n-by-n cyclic shift matrices whose weights are complex. To prove the main results, properties of the k-numerical range are revisited. In particular, it is shown that the k-numerical range is the intersection of certain closed half-planes.
 
-Bachelor's Thesis
-
-Title: Schur's triangularization theorem on dual complex matrices
+Title: Schur's triangularization theorem on dual complex matrices (BS Thesis)
 
 Field: Linear Algebra
 
